@@ -54,7 +54,7 @@ npm install
 npm start
 
 # Abrir en el navegador
-http://localhost:3000
+http://localhost:3000 (1000 para render)
 ```
 ## 🖼️ Capturas de pantalla
 Le faltan caracteres a la contraseña:
