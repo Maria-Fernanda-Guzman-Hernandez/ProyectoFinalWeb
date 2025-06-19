@@ -33,8 +33,7 @@ Crear una solución funcional que conecte el frontend (HTML, CSS, JS) con el bac
 - La contraseña puede mostrarse con un checkbox para facilitar la escritura.
 
 ## URL de la app desplegada
-(https://proyectofinalweb-9w9s.onrender.com)
-
+(https://proyectofinalweb-e7ps.onrender.com)
 
 ## Instrucciones para ejecución local
 
