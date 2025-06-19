@@ -89,3 +89,13 @@ document.addEventListener('DOMContentLoaded', () => {
   cargarUsuarios();
 });
 
+const verPassword = document.getElementById('verPassword');
+const passwordInput = document.getElementById('password');
+const confirmPasswordInput = document.getElementById('confirmPassword');
+
+verPassword.addEventListener('change', () => {
+  const tipo = verPassword.checked ? 'text' : 'password';
+  passwordInput.type = tipo;
+  confirmPasswordInput.type = tipo;
+});
+
