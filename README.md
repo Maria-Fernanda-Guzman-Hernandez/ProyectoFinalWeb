@@ -58,6 +58,7 @@ http://localhost:3000 (1000 para render)
 ```
 ## 🖼️ Capturas de pantalla
 Le faltan caracteres a la contraseña:
+
  ![imagenes](imagenes/caracteres.png)
  
 Las contraseñas no coinciden
@@ -69,9 +70,11 @@ Usuario registrado
  ![imagenes](imagenes/resgistrado.png)
  
 Registro sin poner algún campo
+
  ![imagenes](imagenes/fcampo.png)
  
 Que contenga bien la información del correo
+
  ![imagenes](imagenes/corre1.png) 
  ![imagenes](imagenes/correo2.png)
  
